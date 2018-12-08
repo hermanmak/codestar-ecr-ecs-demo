@@ -1,5 +1,5 @@
-# ECS Tutorial
-
+# Codestar Docker ECS example
+ 
 YouTube
 https://www.youtube.com/watch?v=kQBGbmrdYO4
 
